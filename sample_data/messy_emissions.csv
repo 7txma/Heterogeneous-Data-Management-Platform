@@ -1,0 +1,11 @@
+US State Emissions Summary,,,
+State,Year,NOx_emissions_kt,Data_source
+Alaska,2020,42.7,EPA NEI
+California,2020,512.3,EPA NEI
+Texas,2020,698.1,EPA NEI
+,,,
+,,,
+Sector detail (Alaska),,,
+Sector,Year,NOx_emissions_kt,
+Transportation,2020,18.2,
+Industry,2020,12.5,
